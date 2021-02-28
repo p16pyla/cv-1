@@ -1,5 +1,5 @@
 ---
- ---
+---
 <!DOCTYPE html>
 <html>
   <head>
@@ -14,5 +14,16 @@
         <li><a href="http://{{url}}">{{url}}</a></li>
       {% endfor %}
     </ul>
+    <p>email:
+    <ul>
+      {% for email in site.data.details.email %}
+        <li><a href="{{email}}">{{email}}</a></li>
+      {% endfor %}
+    </ul> 
+   <p>Education: {{site.data.details.education}}
+   <p>About Me: {{site.data.details.aboutme}}
+   <p>Projects: {{site.data.details.projects}}
+   <p>Experience: {{site.data.details.experience}}
+   <p>More: {{site.data.details.more}}
   </body>
 </html>
