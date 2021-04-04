@@ -29,7 +29,9 @@ github_username:  p16pyla
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
+Additional icon links
+- tittle: Github link
+  icon: fab fa-github
 # additional_links:
 # - title: itsgoingto.be
  # icon: fas fa-globe
