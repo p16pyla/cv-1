@@ -9,7 +9,7 @@ version: 2
 name: Dionisis Pylarinos
 title: This is my Resume
 email: p16pyla@ionio.gr
-# website: www.github.com/sproogen/resume-theme
+website: file:///D:/docs/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%B9%CE%B1%20%CE%BB%CE%B7%CF%88%CE%B7%CF%83/cv%20(1).pdf
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -19,7 +19,7 @@ darkmode: false
 github_username:  p16pyla
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: file:///D:/docs/%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%B9%CE%B1%20%CE%BB%CE%B7%CF%88%CE%B7%CF%83/cv%20(1).pdf
+#facebook_username: 
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 # linkedin_username: jameswgrant
