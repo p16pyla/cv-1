@@ -9,7 +9,7 @@ version: 2
 name: Dionisis Pylarinos
 title: This is my Resume
 email: p16pyla@ionio.gr
-website: https://p16pyla.github.io/cv-1/pdf/cv.pdf 
+#website: https://p16pyla.github.io/cv-1/pdf/cv.pdf 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -57,10 +57,10 @@ content:
         title: University projects
         # link: github.com/sproogen
         # link_text: Project Website
-        # additional_links:
-         # - title:  sproogen/modern-resume-theme
-           # icon: fab fa-github
-          #  url: github.com/sproogen/modern-resume-theme
+         additional_links:
+          - title:  PDF-CV
+            icon: fab fa-orcid
+            url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
