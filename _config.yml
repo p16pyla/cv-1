@@ -12,7 +12,7 @@ email: p16pyla@ionio.gr
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
@@ -25,15 +25,15 @@ github_username:  p16pyla
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: DinineSets
+# youtube_username: DinineSets
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
  additional_links:
  - title: Pdf-Cv
-  icon: fas fa-github
-  url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
+   icon: fas fa-github
+   url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
