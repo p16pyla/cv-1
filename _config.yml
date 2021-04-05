@@ -1,4 +1,4 @@
-# Site
+ Site
 # repository: p16pyla/resume-sw
 # favicon: images/favicon.ico
 
@@ -9,7 +9,7 @@ version: 2
 name: Dionisis Pylarinos
 title: This is my Resume
 email: p16pyla@ionio.gr
-#website: https://p16pyla.github.io/cv-1/pdf/cv.pdf 
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -19,19 +19,21 @@ darkmode: false
 github_username:  p16pyla
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-#facebook_username: 
+facebook_username: dininepylarinos
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: DinineSets
+youtube_username: UCc49o3hp1Qac1QCcs3eIDEg
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
-#additional_links:
- - title: Ppf-Cv
-   icon: fab fa-orcid
-   url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+ # icon: fas fa-globe
+ # url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,7 +49,7 @@ github_username:  p16pyla
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Dionisis and I'm student at Ionian Univeristy. I am intersting for operation business systems(ERP) and i am olso a deejay.I am 23 years old in the 5th university student year.I live in Corfu until i finish my studys and iam from Athens
-  I am most skilled in: c,c++,java and sql
+  I am most skilled in: c,c++,java,python and sql
   I also use Music softwares for djs and producers(rekordbox,fl studio)
 content:
   - title: Projects # Title for the section
@@ -57,10 +59,10 @@ content:
         title: University projects
         # link: github.com/sproogen
         # link_text: Project Website
-         additional_links:
-                 # title:  PDF-CV
-                 # icon: fab fa-github
-                 # url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
+        # additional_links:
+         # - title:  sproogen/modern-resume-theme
+           # icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -98,8 +100,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       other hobbies:
       
-      - I love gaming
-      - I am Dj and  Music Producer
+      - Gaming
+      - Djing
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
