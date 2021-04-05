@@ -98,9 +98,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       other hobbies:
       
-      - Gaming
-      - Djing
-      
+      - I love gaming
+      - I am Dj and  Music Producer
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
