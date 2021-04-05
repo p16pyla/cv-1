@@ -1,7 +1,8 @@
  Site
 # repository: p16pyla/resume-sw
 # favicon: images/favicon.ico
-
+sass:
+    sass_dir: ./_scss
 # Content configuration version
 version: 2
 
