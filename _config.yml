@@ -32,7 +32,7 @@ youtube_username: DinineSets
 # Additional icon links
  additional_links:
  - title: Pdf-Cv
-  icon: fas fa-globe
+  icon: fas fa-github
   url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
