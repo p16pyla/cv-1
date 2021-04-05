@@ -30,10 +30,10 @@ github_username:  p16pyla
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
- # icon: fas fa-globe
- # url: https://www.itsgoingto.be
+ additional_links:
+ - title: Cv-Pdf
+  icon: fas fa-github
+  url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
