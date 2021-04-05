@@ -58,8 +58,8 @@ content:
         # link: github.com/sproogen
         # link_text: Project Website
          additional_links:
-          - title:  PDF-CV
-            icon: fab fa-orcid
+         - title:  PDF-CV
+            icon: fab fa-github
             url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
