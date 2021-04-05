@@ -57,8 +57,8 @@ content:
     content:
       - layout: top-middle
         title: University projects
-        # link: github.com/sproogen
-        # link_text: Project Website
+         link: https://p16pyla.github.io/cv-1/pdf/cv.pdf
+         link_text: Project Cv Pdf
         # additional_links:
          # - title:  sproogen/modern-resume-theme
            # icon: fab fa-github
