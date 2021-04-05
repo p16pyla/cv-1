@@ -30,7 +30,7 @@ github_username:  p16pyla
 # orcid_username: 0000-0000-0000-0000
 additional_links:
  - title: Ppf-Cv
-   icon: fab fa-github
+   icon: fab fa-orcid
    url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -58,9 +58,9 @@ content:
         # link: github.com/sproogen
         # link_text: Project Website
          additional_links:
-         - title:  PDF-CV
-            icon: fab fa-github
-            url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
+                 # title:  PDF-CV
+                 # icon: fab fa-github
+                 # url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
