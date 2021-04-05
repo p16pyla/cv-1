@@ -31,9 +31,9 @@ github_username:  p16pyla
 
 # Additional icon links
  additional_links:
- - title: Cv-Pdf
-  icon: fab fa-github
-  url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
+ - title: CvPdf
+   icon: fab fa-github
+   url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
