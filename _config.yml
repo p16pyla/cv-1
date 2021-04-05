@@ -60,9 +60,9 @@ content:
         # link: https://p16pyla.github.io/cv-1/pdf/cv.pdf
         # link_text: Project Cv Pdf
         # additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
+        # - title:  sproogen/modern-resume-theme
+        #   icon: fab fa-github
+        #   url: https://p16pyla.github.io/cv-1/pdf/cv.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
