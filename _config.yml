@@ -68,9 +68,13 @@ content:
           The most intrested for me
         description: | # this will include new lines to allow paragraphs
                Ionian University: I build an online pharmacy with 300 products inside from zero.Τhere you can make your online purchases with many payment methods all over Greece through a wide range of products.
+               
                Ionian University: I have completed quite a few security themed jobs most of them involved achieving basic security attacks.
+               
                Ionian University: My thesis was about security but with a theoretical background, the title was "Issues and discrepancies in the implementation of information security incident response strategies and the role of the human factor".
+               
                Univeristy of Piraeus: I completed a large coursework related to applied cryptography, Security Assessment and Exploitation of Weaknesses, Network Security, Mobile Internet Security, Digital Forensics and Security on the World Wide Web. Also, on a more theoretical level, I dealt with legislative aspects around security, such as ISO,NIST and GDPR.
+               
                Univeristy of Piraeus: Now Iam working to complete my postgraduate thesis. The tittle is "CTF Forensic Challenges" and I have to create some CTF challenges.
                
   - title: Experience # Title for the section
