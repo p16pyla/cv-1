@@ -48,7 +48,7 @@ github_username:  p16pyla
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Dionisis and I was born in 1998. I have graduated from the informatics department of the Ionian Univeristy and now doing my postgraduate in the Digital Systems Security Department at the University of Piraeus
+  Hi, my name is Dionisis and I was born in 1998. I have graduated from the informatics department of the Ionian Univeristy and now doing my postgraduate in the Digital Systems Security Department at the University of Piraeus.I know the Greek language well as I grew up in the capital of Greece, Athens, I also know the English language well.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -106,8 +106,8 @@ content:
         caption: 2022 - 202(4)
         sub_title: Digital Systems Security Department
         quote: >  
-
-        description:
+         This university is the second-oldest business school established in Greece, while the Department of Banking and Financial Management is the country's oldest academic department in the area of finance
+        description: At Univeristy of Pireaus I was learned how to work in strict deadlines, but the most important is that in the field of security you have to constantly adapt to new data and new technologies and not rest on what is already known.
         
   - title: A Little More About Me
     layout: text
