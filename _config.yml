@@ -48,7 +48,7 @@ github_username:  p16pyla
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Dionisis and I was born in 1998. I have graduated from the informatics departmentof the Ionian Univeristy and now doing my postgraduate in the Digital Systems Security Department at the University of Piraeus
+  Hi, my name is Dionisis and I was born in 1998. I have graduated from the informatics department of the Ionian Univeristy and now doing my postgraduate in the Digital Systems Security Department at the University of Piraeus
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,19 +89,26 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            In most jobs they ask about previous service where you gain your experience. I have no experience but I have a lot of appetite for work and exploring new projects. I have learned a lot in my university and I have still searched a lot on my own in programming languages and databases. 
+            In most jobs they ask about previous service where you gain your experience. I have no experience but I have a lot of appetite for work and exploring new projects. I have learned a lot in Ionian Univeristy and Univeristy of Pireaus but also I have still searched a lot on my own. 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Ionian University
-        caption: 2016 - 202?
+        caption: 2016 - 2022
         sub_title: BSc Computer Science
         quote: >
           The first Greek University, the Ionian Academy, was founded in Corfu in 1824 and was the first modern-day Greek school of modern times and the academy of the United States of the Ionian Islands. The Department of Informatics has been operating since the academic year 2004-05. The subject of the Department is both theoretical and applied Informatics.
         description: | # this will include new lines to allow paragraphs
-         At Ionian University we have learned many things, but the ones to which he has given more attention are the  teamwork and working to tight deadlines. I enjoy my time on university and i learn a lot about a healthy work life balance in the future.  
-          
+         At Ionian University we have learned many things, but I think the most important things I got from the Ionian University were how to work on difficult tasks, but also that difficulties I was facing with security or code issues had also been faced by someone else in the world and had posted how to deal with this difficulty . It should be noted that at that time there was no chatgpt.
+      - layout: top-middle
+        title: University of Pireaus
+        caption: 2022 - 202(4)
+        sub_title: Digital Systems Security Department
+        quote: >  
+
+        description:
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
