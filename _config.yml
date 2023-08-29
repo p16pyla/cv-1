@@ -48,9 +48,7 @@ github_username:  p16pyla
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Dionisis and I'm student at Ionian Univeristy. I am intersting for operation business systems(ERP) and i am olso a deejay.I am 23 years old in the 5th university student year.I live in Corfu until i finish my studys and iam from Athens.
-  I am most skilled in: c,c++,java and sql
-  I also use Music softwares for djs and producers(rekordbox,fl studio)
+  Hi, my name is Dionisis and I was born in 1998. I have graduated from the informatics departmentof the Ionian Univeristy and now doing my postgraduate in the Digital Systems Security Department at the University of Piraeus
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -69,7 +67,12 @@ content:
         quote: >
           The most intrested for me
         description: | # this will include new lines to allow paragraphs
-               I build an online pharmacy with 300 products inside from zero.Τhere you can make your online purchases with many payment methods all over Greece through a wide range of products.It is very easy and at the same time very detailed to to explore it
+               Ionian University: I build an online pharmacy with 300 products inside from zero.Τhere you can make your online purchases with many payment methods all over Greece through a wide range of products.
+               Ionian University: I have completed quite a few security themed jobs most of them involved achieving basic security attacks.
+               Ionian University: My thesis was about security but with a theoretical background, the title was "Issues and discrepancies in the implementation of information security incident response strategies and the role of the human factor".
+               Univeristy of Piraeus: I completed a large coursework related to applied cryptography, Security Assessment and Exploitation of Weaknesses, Network Security, Mobile Internet Security, Digital Forensics and Security on the World Wide Web. Also, on a more theoretical level, I dealt with legislative aspects around security, such as ISO,NIST and GDPR.
+               Univeristy of Piraeus: Now Iam working to complete my postgraduate thesis. The tittle is "CTF Forensic Challenges" and I have to create some CTF challenges.
+               
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
