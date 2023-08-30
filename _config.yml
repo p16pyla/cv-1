@@ -46,7 +46,7 @@ darkmode: true
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Dionisis and I was born in 1998. I have graduated from the informatics department of the Ionian Univeristy and now doing my postgraduate in the Digital Systems Security Department at the University of Piraeus.I know the Greek language well as I grew up in the capital of Greece, Athens, I also know the English language well.
 content:
