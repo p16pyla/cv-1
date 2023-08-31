@@ -48,7 +48,7 @@ linkedin_username: dionisis-pylarinos-585694283
 # about_title: About Me
 about_profile_image: images/profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Dionisis and I was born in 1998. I have graduated from the informatics department of the Ionian Univeristy and now doing my postgraduate in the Digital Systems Security Department at the University of Piraeus.I know the Greek language well as I grew up in the capital of Greece, Athens, I also know the English language well.
+  My name is Dionisis and I was born in 1998. I completed my undergraduate studies in Informatics at Ionian University and now I almost finished a postgraduate degree in Digital Systems Security at the University of Piraeus. Greek is my first language and I also speak English fluently with the certificate “NOCN Level 1 Certificate in ESOL International (B2)”.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -67,15 +67,15 @@ content:
         quote: >
           The most intrested for me
         description: | # this will include new lines to allow paragraphs
-               Ionian University: I build an online pharmacy with 300 products inside from zero.Τhere you can make your online purchases with many payment methods all over Greece through a wide range of products.
+               Ionian University: I built an online pharmacy with 300 products inside from zero where you can make your online purchases with many payment methods all over Greece through a wide range of products.
                
-               Ionian University: I have completed quite a few security themed jobs most of them involved achieving basic security attacks.
+               Ionian University: I have completed quite a few security themed projects most of them involved achieving basic security attacks. 
                
-               Ionian University: My thesis was about security but with a theoretical background, the title was "Issues and discrepancies in the implementation of information security incident response strategies and the role of the human factor".
+               Ionian University: My thesis was about security with a theoretical background, the title was "Issues and discrepancies in the implementation of information security incident response strategies and the role of the human factor"
                
-               Univeristy of Piraeus: I completed a large coursework related to applied cryptography, Security Assessment and Exploitation of Weaknesses, Network Security, Mobile Internet Security, Digital Forensics and Security on the World Wide Web. Also, on a more theoretical level, I dealt with legislative aspects around security, such as ISO,NIST and GDPR.
+               Univeristy of Piraeus: I completed a large coursework related to applied cryptography, Security Assessment and Exploitation of Weaknesses, Network Security, Mobile Internet Security, Digital Forensics and Security on the World Wide Web. Also, in a more theoretical level, I dealt with legislative aspects around security, such as ISO,NIST and GDPR.
                
-               Univeristy of Piraeus: Now Iam working to complete my postgraduate thesis. The tittle is "CTF Forensic Challenges" and I have to create some CTF challenges.
+               Univeristy of Piraeus: Now I am working to complete my postgraduate thesis. The title is "CTF Forensic Challenges" and I have to create some CTF challenges.
                
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -89,8 +89,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            In most jobs they ask about previous service where you gain your experience. I have no experience but I have a lot of appetite for work and exploring new projects. I have learned a lot in Ionian Univeristy and Univeristy of Pireaus but also I have still searched a lot on my own. 
-  - title: Education # Title for the section
+            In most jobs they ask about previous service where you gain your experience. I have no experience but I have a lot of appetite for work and exploring new projects. I have learned a lot in Ionian University and University of Piraeus including my courses there and my own research.
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -100,15 +99,14 @@ content:
         quote: >
           The first Greek University, the Ionian Academy, was founded in Corfu in 1824 and was the first modern-day Greek school of modern times and the academy of the United States of the Ionian Islands. The Department of Informatics has been operating since the academic year 2004-05. The subject of the Department is both theoretical and applied Informatics.
         description: | # this will include new lines to allow paragraphs
-         At Ionian University we have learned many things, but I think the most important things I got from the Ionian University were how to work on difficult tasks, but also that difficulties I was facing with security or code issues had also been faced by someone else in the world and had posted how to deal with this difficulty . It should be noted that at that time there was no chatgpt.
+         Ionian University gave me knowledge and helped me improve my studying skills. I think the most important thing I gained was how to work on complicated tasks and other difficulties I faced, like security or code problems. All this research was quite a challenge but I finally managed to solve everything by efficiently using the knowledge I gained.
       - layout: top-middle
         title: University of Pireaus
         caption: 2022 - 202(4)
         sub_title: Digital Systems Security Department
         quote: >  
          This university is the second-oldest business school established in Greece, while the Department of Banking and Financial Management is the country's oldest academic department in the area of finance
-        description: At Univeristy of Pireaus I was learned how to work in strict deadlines, but the most important is that in the field of security you have to constantly adapt to new data and new technologies and not rest on what is already known.
-        
+        description: At the University of Piraeus I managed to work under strict deadlines and the most important thing I learned  is that in the field of security you have to constantly adapt to new data and new technologies and not rest on what is already known.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
