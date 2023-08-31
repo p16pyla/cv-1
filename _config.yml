@@ -89,7 +89,7 @@ content:
         quote: > 
         description: | # this will include new lines to allow paragraphs
             In most jobs they ask about previous service where you gain your experience. I have no experience but I have a lot of appetite for work and exploring new projects. I have learned a lot in Ionian University and University of Piraeus including my courses there and my own research.
-    - tittle: Education
+  - tittle: Education
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
